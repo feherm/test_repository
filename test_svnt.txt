@@ -1,2 +1,1 @@
-hey - just a little conflict test
-
+new line
